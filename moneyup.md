@@ -1,17 +1,17 @@
 ```
-Política de Privacidade
+                                                     Política de Privacidade
 ```
 
  Esta política descreve as práticas adotadas pela Money Up Brasil para a coleta, manuseio, armazenamento e descarte das informações obtidas por meio de seus portais e aplicativo, em atendimento à Lei Geral de Proteção de Dados Pessoais – LGPD.
  
  ```
-INTRODUÇÃO
+                                                     INTRODUÇÃO
 ```
 
 Ao acessar o site e aplicativo da Money Up Brasil, o usuário concorda e aceita integralmente com este Termo de Uso e Política de Privacidade e autoriza, livre e espontaneamente, a coleta, o tratamento, a utilização e o armazenamento dos seus dados, de acordo com os critérios estabelecidos nesta Política de Privacidade.
 
 ```
-A COLETA DE INFORMAÇÕES
+                                                     A COLETA DE INFORMAÇÕES
 ```
 
 2.1. A Money Up Brasil coleta todas as informações inseridas pelo usuário na utilização de nosso site e aplicativo, como, por exemplo, no preenchimento de formulários e cadastros disponibilizados.
@@ -19,7 +19,7 @@ A COLETA DE INFORMAÇÕES
 2.3. No site utilizamos cookies – pequenos arquivos de texto com dados da navegação do usuário – que podem ser adicionados ao navegador do dispositivo usado para acesso ao site e aplicativo.
 
 ```
-UTILIZAÇÃO DAS INFORMAÇÕES COLETADAS
+                                                     UTILIZAÇÃO DAS INFORMAÇÕES COLETADAS
 ```
 
 3.1. A partir do fornecimento dos dados pessoais pelo usuário, seja no cadastro inicial ou em sua atualização, o usuário está concordando e consente com os tratamentos de dados especificados nesta Política, bem como para:
@@ -34,7 +34,7 @@ UTILIZAÇÃO DAS INFORMAÇÕES COLETADAS
 3.1.9. Aprimoramento da comunicação entre a Money Up Brasil e o usuário;
 
 ```
-COMPARTILHAMENTO DAS INFORMAÇÕES COLETADAS
+                                                     COMPARTILHAMENTO DAS INFORMAÇÕES COLETADAS
 ```
 
 4.1. A Money Up Brasil poderá compartilhar os dados coletados com parceiros estratégicos, prestadores de serviços e fornecedores contratados por ele. Ao aceitar os Termos da Política de Privacidade, o usuário concorda expressamente com as seguintes hipóteses de compartilhamento:
@@ -46,7 +46,7 @@ COMPARTILHAMENTO DAS INFORMAÇÕES COLETADAS
 4.2. A Money Up Brasil poderá, ainda, utilizar as informações mediante autorização solicitada ao usuário, em caso de situações não previstas neste instrumento.
 
 ```
-ARMAZENAMENTO DAS INFORMAÇÕES COLETADAS
+                                                     ARMAZENAMENTO DAS INFORMAÇÕES COLETADAS
 ```
 
 5.1. A Money Up Brasil manterá em sigilo os dados fornecidos, armazenados em servidores ou quaisquer outros meios com segurança, não os divulgando, publicando ou compartilhando – salvo nos casos previstos nesta Política de Privacidade –, porém não se responsabilizará por reparação de danos que possam vir a ocorrer em caso de rompimento dos sistemas de segurança por terceiros, que venham a acessar tais dados.
@@ -54,7 +54,7 @@ CORREÇÃO E EXCLUSÃO DAS INFORMAÇÕES COLETADAS
 6.1. O usuário pode solicitar a atualização dos seus dados, correção ou exclusão de suas informações por meio de nossos Canais de Atendimento. Entretanto, é importante salientar que podemos manter as informações para cumprimento de obrigações legais, contratuais e regulatórias.
 
 ```
-RESPONSABILIDADE DO USUÁRIO
+                                                     RESPONSABILIDADE DO USUÁRIO
 ```
 
 7.1. O usuário se responsabiliza pela correção e veracidade das informações fornecidas, que poderão ser verificadas a qualquer momento pela Money Up Brasil, devendo mantê-los sempre atualizados.
@@ -62,7 +62,7 @@ RESPONSABILIDADE DO USUÁRIO
 7.3.  Cumprir rigorosamente as estipulações e procedimentos desta Política de Privacidade e dos Termos de Condições e Uso do Aplicativo.
 
 ```
-DISPOSIÇÕES GERAIS
+                                                     DISPOSIÇÕES GERAIS
 ```
 
 8.1. Em nenhuma circunstância, a Money Up Brasil, seus diretores ou funcionários serão responsáveis por quaisquer danos diretos ou indiretos, especiais, incidentais ou de consequência, perdas ou despesas oriundos da conexão com o site ou aplicativo, em ambiente logado ou não, ou uso de parte ou incapacidade de uso por qualquer parte, ou com relação a qualquer falha de desempenho, erro, omissão, interrupção, defeito ou demora na operação ou transmissão, vírus de computador ou falha da linha ou do sistema, ainda que a Money Up Brasil ou seus representantes estejam avisados da possibilidade de tais danos, perdas ou despesas.
@@ -74,13 +74,13 @@ DISPOSIÇÕES GERAIS
 
 
 ```
-TERMOS E CONDIÇÕES DE USO
+                                                     TERMOS E CONDIÇÕES DE USO
 ```
 
 Os Termos e Condições de Uso do Aplicativo Money Up Brasil irão lhe fornecer todas as informações relevantes e necessárias para o uso correto do serviço oferecido.
 
 ```
-INTRODUÇÃO
+                                                     INTRODUÇÃO
 ```
 
 1.1. A Money Up Brasil é uma empresa regularmente constituída, sob o CNPJ nº 37.820.522/0001-40, com sede na Cidade de Vilhena/RO, na Rua Carlos Sthal, 5263, sala 02, bairro Jardim Eldorado, CEP 76.987-050, que oferece aos seus usuários possibilidade de usufruir experiências nos melhores estabelecimentos da sua cidade, através de vantagens oferecidas no Aplicativo Money Up Brasil.
@@ -91,7 +91,7 @@ INTRODUÇÃO
 1.6. São canais de acesso à equipe Money Up Brasil: Instagram: @moneyupbrasil, e-mail: contato@moneyupbrasil.com.br.
 
 ```
-APLICATIVO E CADASTRO
+                                                     APLICATIVO E CADASTRO
 ```
 
 2.1. O aplicativo onde são oferecidos os serviços da Money Up Brasil está disponível para download na AppStore ou GooglePlay, que podem ser acessados através do smartphone do usuário.
@@ -104,7 +104,7 @@ APLICATIVO E CADASTRO
 2.8. Ao realizar o cadastro o usuário autoriza a manutenção de seus dados em nosso banco de dados de usuários. A Money Up Brasil manterá em sigilo os dados fornecidos, armazenados em servidores ou quaisquer outros meios com segurança, não os divulgando, publicando ou compartilhando, salvo quando determinado por legislação vigente, decisão judicial ou nos casos previstos na Política de Privacidade, porém não se responsabilizará por reparação de danos que possam vir a ocorrer em caso de rompimento dos sistemas de segurança por terceiros, que venham a acessar tais dados.
 
 ```
-PLANOS E PAGAMENTO
+                                                     PLANOS E PAGAMENTO
 ```
 
 3.1. Para usufruir das vantagens oferecidas no Aplicativo, o usuário deverá aderir a um dos 03 (três) planos disponíveis para assinatura:
@@ -117,7 +117,7 @@ PLANOS E PAGAMENTO
 3.5. O valor das assinaturas poderá ser atualizado, a critério da Money Up Brasil, sendo o usuário notificado através do e-mail cadastrado e notificação no aplicativo. 
 
 ```
-CANCELAMENTO DA ASSINATURA
+                                                     CANCELAMENTO DA ASSINATURA
 ```
 
 4.1. O cancelamento da assinatura poderá ser feito a qualquer momento. Se anterior ao vencimento não importará em reembolso ao usuário fidelizado, podendo este usufruir dos serviços disponibilizados no Aplicativo até o vencimento da assinatura.
@@ -125,7 +125,7 @@ CANCELAMENTO DA ASSINATURA
 4.3. A exclusão e ou desinstalação do Aplicativo do smartphone do usuário não significa o cancelamento da assinatura. Para tanto deverá entrar em contato pelos canais de atendimento.
 
 ```
-UTILIZAÇÃO DO APLICATIVO
+                                                     UTILIZAÇÃO DO APLICATIVO
 ```
 
 5.1. Confirmado o pagamento, o usuário receberá um código (chave) através do e-mail cadastrado no momento da aquisição e deverá inserir tal código (chave) no campo “Ativar Código” que está localizado no menu aba “Assinar”, podendo o usuário começar a usufruir dos serviços.
@@ -139,7 +139,7 @@ UTILIZAÇÃO DO APLICATIVO
 5.9. Ao usuário é vedado copiar, usar, dispor, modificar, vender, dar, ou em qualquer hipótese, as marcas, processos, sistemas, funcionalidades, imagens, softwares, do Aplicativo, uma vez que estão protegidos pela Lei de Propriedade Industrial (Lei nº 9.279/96), e pertencem a Money Up Brasil.
 
 ```
-ESTABELECIMENTOS PARCEIROS
+                                                     ESTABELECIMENTOS PARCEIROS
 ```
 
 6.1. A Money Up Brasil não garantirá a permanência de qualquer estabelecimento no Aplicativo ou a manutenção dos descontos oferecidos, sendo de livre disposição do estabelecimento parceiro a sua permanência, e podendo alterar a vantagem oferecida a qualquer momento, sem prévia consulta ou aviso.
@@ -147,7 +147,7 @@ ESTABELECIMENTOS PARCEIROS
 6.3. A ocorrência de quaisquer hipóteses acima não acarreta direito ao usuário de cancelamento da assinatura com reembolso do valor pago.
 
 ```
-ATUALIZAÇÕES E MANUTENÇÃO DO APLICATIVO
+                                                     ATUALIZAÇÕES E MANUTENÇÃO DO APLICATIVO
 ```
 
 7.1. Para o correto funcionamento do Aplicativo e precisão das informações nele constantes, a Money Up Brasil, a seu critério, poderá realizar atualizações do sistema, que ficará disponível para download na AppStore ou GooglePlay, recomendando sempre que se utilize a versão mais recente do Aplicativo.
@@ -155,7 +155,7 @@ ATUALIZAÇÕES E MANUTENÇÃO DO APLICATIVO
 7.3. Recomenda-se que o usuário mantenha ativado em seu smartphone as notificações de atualização do Aplicativo.
 
 ```
-DISPOSIÇÕES GERAIS
+                                                     DISPOSIÇÕES GERAIS
 ```
 
 8.1. Esses termos poderão ser aditados a qualquer momento, a critério da Money Up Brasil, mediante notificação do usuário acerca das modificações operadas. O acesso ou uso do Aplicativo após a publicação das alterações importará em concordância com os termos do aditamento. Em caso de não concordância com os termos aditados, o usuário terá 48 (quarenta e oito) horas para informar por e-mail a discordância e solicitar o cancelamento da assinatura, aplicando-se as regras do Item 4. deste.
